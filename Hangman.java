@@ -17,8 +17,7 @@ import java.util.Scanner;
  * This program is a game being played between multiple users where
  * each user gets a Random word which he is supposed to guess within a maximum of 8 chances.
  * The user with the least Guesses wins!
- * 
- * @author      Saurabh Wani
+ * The players play one after the other and each gets a word of the same length
  * @author      Amit Shah
  * 
  */
